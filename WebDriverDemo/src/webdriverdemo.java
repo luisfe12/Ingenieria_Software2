@@ -36,7 +36,7 @@ public class webdriverdemo {
 
 	      
 	      // Get the Result Text based on its xpath
-	     /* String result = 
+	     /*String result = 
 	    		  driver.findElement(By.xpath(".//*[@id = 'content']/p[2]/font/b")).getText();*/
 
 	      
